@@ -3,10 +3,10 @@ The MATLAB code skeleton used in the paper "Support Consistency of Direct Sparse
 
 There are only two steps to produce the "probability of success" plot used in the paper. 
 
-1. demo_POS
+1. demo_POS:
 It runs the KLIEP and learns the changes between two (lattice) MNs with the difference of 4 edges. 
 The process uses "parfor" to run 300 times using different random samples in parallel. 
-2. plot_POS
+2. plot_POS:
 With the results generated from the first step, it now plots the "probability of success" curves shown in the paper. 
 
 Reference:
