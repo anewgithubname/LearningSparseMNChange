@@ -10,9 +10,9 @@ The process uses "parfor" to run 300 times using different random samples in par
 With the results generated from the first step, it now plots the "probability of success" curves shown in the paper. 
 
 Reference:
-Liu, S., Suzuki, T., Relator R., Sese J., Sugiyama, M., Fukumizu, K.,
-Support Consistency of Direct Sparse-Change Learning in Markov Networks
+Liu, S., Suzuki, T., Relator R., Sese J., Sugiyama, M., Fukumizu, K., \n
+Support Consistency of Direct Sparse-Change Learning in Markov Networks \n
 Presented at NIPS workshop on Transfer and Multi-task learning: Theory Meets Practice
-preprint , Proceedings of Twenty-Ninth AAAI Conference on Artificial Intelligence (AAAI2015)
-, pp.2785-2791, 2015. 
-To appear in Annals of Statistics, 2016
+Proceedings of Twenty-Ninth AAAI Conference on Artificial Intelligence (AAAI2015) 
+, pp.2785-2791, 2015. \n
+To appear in Annals of Statistics, 2016 
