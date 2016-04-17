@@ -5,7 +5,7 @@ There are only two steps to produce the "probability of success" plot used in th
 
 1. demo_POS  
 It runs the "KLIEP algorithm" and learns the changes between two (lattice) MNs with the difference of 4 edges.   
-The process uses "parfor" to run 300 times using different random samples in parallel.   
+The script uses "parfor" to run 300 times using different random samples in parallel.   
 2. plot_POS:  
 With the results generated from the first step, it now plots the "probability of success" curves shown in the paper.   
 
